@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "GXGSekaiichi"
+name:               "GXGSekai1chi"
 
 author:
   facebook:         your-id
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "GXGSekai1chi"
 
 # URL
 url:                "https://gxgmadhatter.github.io" # the base hostname & protocol for your site
