@@ -91,3 +91,7 @@ gems:
   - jekyll-admin
 
 exclude:            [vendor]
+<<<<<<< HEAD
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 0bd29bcadb5e3ef3dbaa11dfe25d9ff29f1392d9
