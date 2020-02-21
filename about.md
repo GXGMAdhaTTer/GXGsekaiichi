@@ -1,15 +1,28 @@
 ---
 layout: page
-title: About
+title: 我
 permalink: /about/
 ---
 
-Some information about you!
+叫我**GXG**吧。穿不起这个牌子的衣服但是我想拥有这个名字。
 
-### More Information
+我是一个很独头的人，比较怕麻烦。
 
-A place to include any other types of information that you'd like to include about yourself.
+我觉得，女人真麻烦。
 
-### Contact me
+我什么都想学，目标是成为一个究极工具人。
 
-[email@domain.com](mailto:email@domain.com)
+我可能没有什么创意，也不想对别人说三道四，但只要是我要做的事，我会想要做好。
+
+
+邮箱：[1216502127@qq.com](mailto:1216502127@qq.com)
+
+微信：Gao_xiao_guo
+
+QQ：1216502127
+
+电话：18868116065
+
+![](http://q61yg42n6.bkt.clouddn.com/qcode.jpeg)
+
+欢迎骚扰。
