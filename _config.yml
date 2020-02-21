@@ -20,7 +20,7 @@ avatar: http://q61yg42n6.bkt.clouddn.com/jekyll-logo.png
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 叨
+  - name: Blog
     url: /
   - name: About
     url: /about
